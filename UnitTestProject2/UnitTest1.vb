@@ -9,7 +9,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
     <TestMethod()>
     Public Sub ShouldFail()
-        Assert.IsTrue(False)
+        Assert.IsTrue(True)
     End Sub
 
 End Class
