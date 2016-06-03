@@ -1,0 +1,8 @@
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.xml
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.Resources.resources
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.vbproj.GenerateResource.Cache
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.xml
+c:\users\antoine.bourguet\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
