@@ -3,13 +3,18 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
 <TestClass()> Public Class UnitTest1
 
-    <TestMethod()> Public Sub TestMethod1()
+    <TestMethod()>
+    Public Sub TestMethod1()
         Assert.IsFalse(False)
     End Sub
 
     <TestMethod()>
     Public Sub ShouldFail()
-        Assert.IsTrue(True)
+        Assert.IsTrue(False)
     End Sub
 
+    <TestMethod()>
+    Public Sub ShouldSucceed()
+        Assert.IsTrue(True)
+    End Sub
 End Class
