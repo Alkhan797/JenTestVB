@@ -15,7 +15,6 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
     <TestMethod()>
     Public Sub ShouldSucceed()
-        Assert.IsTrue(False
-                      )
+        Assert.IsTrue(False)
     End Sub
 End Class
